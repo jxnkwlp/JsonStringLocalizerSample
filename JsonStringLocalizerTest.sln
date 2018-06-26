@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonStringLocalizerTest", "JsonStringLocalizerTest\JsonStringLocalizerTest.csproj", "{6278EEBC-CF26-4854-87B3-508C1E4C6A29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6278EEBC-CF26-4854-87B3-508C1E4C6A29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6278EEBC-CF26-4854-87B3-508C1E4C6A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6278EEBC-CF26-4854-87B3-508C1E4C6A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6278EEBC-CF26-4854-87B3-508C1E4C6A29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75C2BB7F-893F-489C-82B5-B15160F611F9}
+	EndGlobalSection
+EndGlobal
